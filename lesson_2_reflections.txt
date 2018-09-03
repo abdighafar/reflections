@@ -1,0 +1,4 @@
+>>What happens when you initialize a repository? Why do you need to do it?
+
+when you initialize a repository a system hiden file called .git is created which contians all the configurations of git for that specific file. we need it coz we want to create a new repository file completely offline without connecting to internet.
+
